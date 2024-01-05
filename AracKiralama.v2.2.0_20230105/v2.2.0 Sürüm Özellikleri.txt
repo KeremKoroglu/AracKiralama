@@ -1,0 +1,11 @@
+
+İşlevsel :
+
+Müşteri Düzenle Üzerinde Çalışılıyor.
+
+Tasarımsal eksiklikler hala mevcut.
+ClsSqlDatabase Sınıfında Bir Sürü Eksik Kod Var.
+Araç Çağır Kısmında Hata Var.
+
+
+
