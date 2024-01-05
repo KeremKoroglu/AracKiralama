@@ -1,0 +1,16 @@
+
+İşlevsel :
+
+Araba Kirala\Çağır Çalışmıyor.
+Bir çok hata keşfedildi.
+İşlevsel eklenti yapılamadı.
+Class Library ekleme başarısız.
+Yeni Class eklendi CodeHelper.
+
+Tasarımsal eksiklikler hala mevcut.
+Kod Hataları mevcut.
+Eksik kodlar mevcut.
+
+Bu sürümde uygulama ile çok az ilgilenildi.
+
+

@@ -1,0 +1,10 @@
+
+İşlevsel :
+Araç Kirala/Çağır için ilk adımlar atıldı.
+
+Try Catch Yapısı tamamlandı.
+Artık hatalar daha kolay anlaşılıyor.
+
+Tasarımsal eksiklikler hala mevcut.
+Araba Kirala çalışmıyor.
+

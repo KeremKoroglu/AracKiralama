@@ -1,0 +1,10 @@
+
+İşlevsel :
+
+Araç Kirala/Çağır için Çağır kısmı üzerinde çalışılıyor.
+Araç Kirala/Çağır için kısayollar yapıldı(model seçilince isim geliyor vb.)
+Araç Kirala/Çağır için bazı hatalar düzeltildi(model veya isimlerin tekrarlanması)
+
+Tasarımsal eksiklikler hala mevcut.
+Araba Çağır çalışmıyor.
+

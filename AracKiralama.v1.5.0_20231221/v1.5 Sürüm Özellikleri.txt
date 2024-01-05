@@ -1,0 +1,14 @@
+
+İşlevsel :
+
+Yeni Veritabanı Satırı : LastRentedCar. Son kiralanan arabayı gösteriyor.
+Araç Kirala\Çağır tamamlandı.
+Kiracı Müşteriler Eklendi.
+Araç Düzenle Eklendi. Arayüzü tamamlandı, backendi yazılacak.
+Bazı metodlara "Type" parametresi eklendi.
+SqlDatabase sınıfı düzenlendi.
+Genel olarak kodlar düzeltildi(düzen olarak).
+
+Tasarımsal eksiklikler hala mevcut.
+
+

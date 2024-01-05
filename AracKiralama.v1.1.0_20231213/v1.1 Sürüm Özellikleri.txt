@@ -1,0 +1,10 @@
+
+İşlevsel olarak tamamlanan özellikler:
+
+Araç Ekle,
+Araç Çıkar
+
+Yeni Yerel Class ile daha kolay işlemler.
+Try Catch Yapısı ile daha az hata.
+
+Tasarımsal eksiklikler hala mevcut.

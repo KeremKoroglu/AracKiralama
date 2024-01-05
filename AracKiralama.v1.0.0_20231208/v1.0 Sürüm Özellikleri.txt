@@ -1,0 +1,11 @@
+İlk kaydedilen geliştirme aşaması.
+
+İşlevsel olarak tamamlanan özellikler:
+
+Arayüz Bilgileri,
+Araba Listesi, 
+Boştaki Araba Listesi,
+Kiralanan Araba Listesi, 
+Müşteri Listesi
+
+Tasarımsal eksiklikler hala mevcut.

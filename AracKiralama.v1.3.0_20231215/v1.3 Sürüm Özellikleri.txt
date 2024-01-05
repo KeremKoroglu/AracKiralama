@@ -1,0 +1,8 @@
+
+İşlevsel :
+Araç Kirala/Çağır için kirala kısmı tamamlandı.
+Araç Kirala/Çağır için Çağır kısmı üzerinde çalışılıyor.
+
+Tasarımsal eksiklikler hala mevcut.
+Araba Çağır çalışmıyor.
+
