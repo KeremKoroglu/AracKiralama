@@ -1,0 +1,13 @@
+İlk Kaydedilen Geliştirme Aşaması.
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Arayüz Bilgileri,
+Araba Listesi, 
+Boştaki Araba Listesi,
+Kiralanan Araba Listesi, 
+Müşteri Listesi
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Mevcut.

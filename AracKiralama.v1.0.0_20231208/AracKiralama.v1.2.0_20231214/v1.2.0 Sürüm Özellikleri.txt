@@ -1,0 +1,13 @@
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Araç Kirala/Çağır İçin İlk Adımlar Atıldı.
+Try Catch Yapısı Tamamlandı.
+
+Araba Kirala Çalışmıyor.
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Mevcut.
+
+

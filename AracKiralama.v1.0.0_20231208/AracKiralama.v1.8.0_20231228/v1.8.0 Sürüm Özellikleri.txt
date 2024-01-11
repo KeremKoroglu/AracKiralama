@@ -1,0 +1,10 @@
+
+İşlevsel :
+
+Araba Düzenle tamamlandı.
+Artık TextBox'lara veri tipi değeri aşıldığında uyarı veriliyor.
+
+Tasarımsal eksiklikler hala mevcut.
+
+
+

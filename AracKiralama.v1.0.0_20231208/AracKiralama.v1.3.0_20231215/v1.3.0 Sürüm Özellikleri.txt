@@ -1,0 +1,12 @@
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Araç Kirala/Çağır İçin Kirala Kısmı Tamamlandı.
+Araç Kirala/Çağır İçin Çağır Kısmı Üzerinde Çalışılıyor.
+
+Araba Çağır Çalışmıyor.
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Mevcut.
+
