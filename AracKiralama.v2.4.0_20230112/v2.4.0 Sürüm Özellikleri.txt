@@ -1,0 +1,13 @@
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Ödeme Sistemi İçin İlk Adımlar Atıldı.
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarım Kısmı Tamamlandı.
+ClsSqlDatabase Sınıfında Bir Sürü Eksik Kod Var.
+
+
+
+
