@@ -1,0 +1,11 @@
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Class Library İçin İlk Adımlar Atıldı.
+Login Metodu Class Library'ye Eklendi.
+
+Bu Durum Pek Çok Hataya Sebep Oldu.
+Araç Çağır
+Araba Düzenle
+Müşteri Düzenle 
+Bölümleri İşlevsiz Hale Geldi.
