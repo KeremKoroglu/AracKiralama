@@ -1,6 +1,6 @@
-İlk kaydedilen geliştirme aşaması.
+İlk Kaydedilen Geliştirme Aşaması.
 
-İşlevsel olarak tamamlanan özellikler:
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
 
 Arayüz Bilgileri,
 Araba Listesi, 
@@ -8,4 +8,6 @@ Boştaki Araba Listesi,
 Kiralanan Araba Listesi, 
 Müşteri Listesi
 
-Tasarımsal eksiklikler hala mevcut.
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Mevcut.

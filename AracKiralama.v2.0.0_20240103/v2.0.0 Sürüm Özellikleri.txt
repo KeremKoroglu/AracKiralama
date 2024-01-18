@@ -1,0 +1,13 @@
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Araç Düzenle Güncellendi Artık Kullanıcı Combobox'dan Seçiliyor.
+Müşteri Düzenle Frontend(Tasarım) Kısmı Bitti.
+Araç Düzenle Kısmında ChbDeliveryDateNull Seçili Gelmiyor.
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Hala Mevcut.
+
+
+

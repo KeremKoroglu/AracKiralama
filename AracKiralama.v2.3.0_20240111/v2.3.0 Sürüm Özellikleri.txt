@@ -1,13 +1,14 @@
 
 İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
 
-Bazı Hatalar Giderildi.
-Kodlarda Düzenlemeler Yapıldı.
-Araç Düzenle Kısmı İyileştirildi.
+Müşteri Düzenle Tamamlandı.
+Araç Çağır Kısmındaki Hata Giderildi.
 
 TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
 
 Tasarımsal Eksiklikler Hala Mevcut.
+ClsSqlDatabase Sınıfında Bir Sürü Eksik Kod Var.
+
 
 
 

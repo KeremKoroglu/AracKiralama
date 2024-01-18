@@ -1,14 +1,16 @@
 
-İşlevsel :
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
 
-Yeni Veritabanı Satırı : LastRentedCar. Son kiralanan arabayı gösteriyor.
-Araç Kirala\Çağır tamamlandı.
+Yeni Veritabanı Satırı : LastRentedModel Son Kiralanan Arabayı Gösteriyor.
+Araç Kirala\Çağır Tamamlandı.
 Kiracı Müşteriler Eklendi.
-Araç Düzenle Eklendi. Arayüzü tamamlandı, backendi yazılacak.
-Bazı metodlara "Type" parametresi eklendi.
-SqlDatabase sınıfı düzenlendi.
-Genel olarak kodlar düzeltildi(düzen olarak).
+Araç Düzenle Eklendi. Arayüzü Tamamlandı, Backendi Yazılacak.
+Bazı Metodlara "Type" Parametresi Eklendi.
+SqlDatabase Sınıfı Düzenlendi.
+Genel Olarak Kodlar Düzeltildi(düzen olarak).
 
-Tasarımsal eksiklikler hala mevcut.
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Mevcut.
 
 

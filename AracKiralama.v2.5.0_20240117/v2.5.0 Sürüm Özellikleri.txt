@@ -1,0 +1,10 @@
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Kod Yapısında Değişiklikler Yapıldı.
+
+
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+TextBox Karakter Sınırları ve Yalnızca Sayı Kontrolü Eklendi.

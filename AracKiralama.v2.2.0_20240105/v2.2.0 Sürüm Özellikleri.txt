@@ -1,0 +1,13 @@
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Müşteri Düzenle Üzerinde Çalışılıyor.
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Hala Mevcut.
+ClsSqlDatabase Sınıfında Bir Sürü Eksik Kod Var.
+Araç Çağır Kısmında Hata Var.
+
+
+

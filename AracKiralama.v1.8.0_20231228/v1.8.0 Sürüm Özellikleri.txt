@@ -1,10 +1,12 @@
 
-İşlevsel :
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
 
-Araba Düzenle tamamlandı.
-Artık TextBox'lara veri tipi değeri aşıldığında uyarı veriliyor.
+Araba Düzenle Tamamlandı.
+Artık TextBox'lara Veri Tipi Değeri Aşıldığında Uyarı Veriliyor.
 
-Tasarımsal eksiklikler hala mevcut.
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Hala Mevcut.
 
 
 

@@ -1,10 +1,13 @@
 
-İşlevsel :
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
 
-Araç Düzenle kısmında yeni özellik : Bir modelin bir kısmı yazıldığında "Ara" düğmesine basılarak o modelin bulunması
-Örnek : Honda yazıp "Ara" tuşuna basıldığında, Bunu mu demek istediniz? Honda Civic ardından evet'e tıklanır ve o model gelir.
-Bazı kod hataları giderildi.
+Araç Düzenle Kısmında Yeni Özellik : Bir Modelin Bir Kısmı Yazıldığında "Ara" Düğmesine Basılarak O Modelin Bulunması.
+Örnek : Honda Yazıp "Ara" Tuşuna Basıldığında, Bunu Mu Demek İstediniz? Honda Civic Ardından Evet'e Tıklanır Ve O Model Gelir.
+Bazı Kod Hataları Giderildi.
 
-Tasarımsal eksiklikler hala mevcut.
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Hala Mevcut.
+
 
 

@@ -1,10 +1,13 @@
 
-İşlevsel :
-Araç Kirala/Çağır için ilk adımlar atıldı.
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
 
-Try Catch Yapısı tamamlandı.
-Artık hatalar daha kolay anlaşılıyor.
+Araç Kirala/Çağır İçin İlk Adımlar Atıldı.
+Try Catch Yapısı Tamamlandı.
 
-Tasarımsal eksiklikler hala mevcut.
-Araba Kirala çalışmıyor.
+Araba Kirala Çalışmıyor.
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Mevcut.
+
 

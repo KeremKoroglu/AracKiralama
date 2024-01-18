@@ -1,9 +1,0 @@
-
-Ek Düzenleme : 
-
-Bazı kod eksikliklerini düzeltildi.
-Ana Sayfadaki bilgiler dinamik olarak güncelleniyor.
-
-
-
-

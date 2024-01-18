@@ -1,10 +1,12 @@
 
-İşlevsel olarak tamamlanan özellikler:
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
 
 Araç Ekle,
 Araç Çıkar
 
-Yeni Yerel Class ile daha kolay işlemler.
-Try Catch Yapısı ile daha az hata.
+Yeni Yerel Class İle Daha Kolay İşlemler.
+Try Catch Yapısı İle Daha Az Hata.
 
-Tasarımsal eksiklikler hala mevcut.
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Hala Mevcut.

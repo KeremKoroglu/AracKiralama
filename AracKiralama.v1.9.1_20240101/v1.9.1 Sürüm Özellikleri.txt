@@ -1,0 +1,9 @@
+
+EK DÜZENLEME : 
+
+Bazı Kod Eksikliklerini Düzeltildi.
+Ana Sayfadaki Bilgiler Dinamik Olarak Güncelleniyor.
+
+
+
+

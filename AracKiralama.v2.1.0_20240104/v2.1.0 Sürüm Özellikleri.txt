@@ -1,0 +1,15 @@
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Müşteri Düzenle Veri Getirmeler Tamamlandı.
+Müşteri Ara Özelliği Eklendi.
+Gelecek Sürümde Kaydet Özelliği Eklenecek.
+
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Tasarımsal Eksiklikler Hala Mevcut.
+ClsSqlDatabase Sınıfında Bir Sürü Eksik Kod Var.
+
+
+
