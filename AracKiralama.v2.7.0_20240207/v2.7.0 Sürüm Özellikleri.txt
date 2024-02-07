@@ -1,0 +1,12 @@
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Class Library Aktarımı Bitti.
+SqlDatabase Kaldırıldı.
+AracKiralamaDatabase Yeni SqlDatabase Oldu.
+Class Library ve SqlDatabase İçerisindeki Kodlar İyileştirildi.
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Ödeme Sistemi'nin Frontend Kısmı Bitti.
+Ödeme Sistemi'nde Tasarımsal Eksiklikler Var.
