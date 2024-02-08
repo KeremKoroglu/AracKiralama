@@ -1,0 +1,9 @@
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Ödeme Sistemi İçin Sadece Ödeme Kısmı Kaldı.
+Ödeme Sistemi, Müşteri Ekle Formu Yapılana Dek Ara Verildi.
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Ödeme Sistemi'nde Tasarımsal Eksiklikler Var.
