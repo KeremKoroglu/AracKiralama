@@ -1,0 +1,16 @@
+
+İŞLEVSEL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Müşteri Ekle Tamamlandı.
+Ödeme Sistemi Tamamlandı.
+Araç Düzenle ve Müşteri Düzenle Kısmında Hatalar Düzeltildi.
+Araç Düzenle ve Müşteri Düzenle Kısmında Son Kiracı ve Kiralayan Seçenekleri
+ComboBox Olarak Değiştirildi.
+Tabloların Anlık Güncellenmeme Hatası Düzeltildi.
+
+TASARIMSAL OLARAK KAYDEDİLEN GELİŞMELER :
+
+Araç ve Müşteri Silmek İçin Koşul Yerine Tablodan Seçme Eklendi.
+
+Ödeme Sistemi'nde Tasarımsal Eksiklikler Var.
+Müşteri Ekle'de Tasarımsal Eksiklikler Var.
