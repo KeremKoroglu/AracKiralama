@@ -90,11 +90,5 @@ namespace AracKiralama
         #endregion
 
         #endregion
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Main.Show();
-            this.Hide();
-        }
     }
 }
